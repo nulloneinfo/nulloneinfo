@@ -2,9 +2,8 @@
 
 # 👋 Hello, I'm Atiqur Rahman (nullone)
 
-- 🛠 Cybersecurity Enthusiast
-- 🎓 CEH & OSCP Aspirant
-- 🔍 Penetration Tester, Wireless Pentesting, OpenWrt Specialist
+- 🛠 Cybersecurity Enthusiast & Certified Ethical Hacker 🎓
+- 🔍 Penetration Tester, Hardware Hacker, OpenWrt Specialist
 
 ## ⚙️ Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -16,4 +15,4 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Medium](https://medium.com/@atiqur.rahman.nullone)
-
+- [Fiverr](https://www.fiverr.com/nullone)
