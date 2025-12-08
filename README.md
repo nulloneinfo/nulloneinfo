@@ -13,6 +13,6 @@
 
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/nulloneinfo/)
 - [Medium](https://medium.com/@atiqur.rahman.nullone)
 - [Fiverr](https://www.fiverr.com/nullone)
