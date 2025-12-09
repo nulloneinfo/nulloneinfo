@@ -76,15 +76,26 @@ Atiqur Rahman (nullone) — Cybersecurity Engineer (Govt & Enterprise Security)
 > All repositories & tools are strictly for **authorized** security testing, research & education.
 
 ### 🧪 Labs & Frameworks
-- **Web-Security-Academy** – Structured labs for modern web exploitation  
-- **encode_exploits** – Payload transformer & encoder for evasion R&D  
-- **small-php-shell** – Minimal shell for DFIR & defensive simulation  
-- **Secure-Remote-Access-Lab** – Encrypted remote access for controlled lab environments  
-- **OpenWrt-Wi-Fi-Attack-Tool** – Wi-Fi attack automation on OpenWrt hardware  
+
+- **[Web-Security-Academy](https://github.com/nulloneinfo/Web-Security-Academy)**  
+  Structured labs for modern web exploitation  
+
+- **[encode_exploits](https://github.com/nulloneinfo/encode_exploits)**  
+  Payload transformer & encoder for evasion R&D  
+
+- **[small-php-shell](https://github.com/nulloneinfo/small-php-shell)**  
+  Minimal PHP shell for DFIR & defensive simulation  
+
+- **[Secure-Remote-Access-Lab](https://github.com/nulloneinfo/Secure-Remote-Access-Lab)**  
+  Encrypted remote access for controlled lab environments  
+
+- **[OpenWrt-Wi-Fi-Attack-Tool](https://github.com/nulloneinfo/OpenWrt-Wi-Fi-Attack-Tool)**  
+  Wi-Fi attack automation on OpenWrt hardware  
 
 > 📝 See pinned repositories for writeups & PoCs.
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
@@ -171,9 +182,9 @@ Atiqur Rahman (nullone) — Cybersecurity Engineer (Govt & Enterprise Security)
   </picture>
 </div>
 
-<div align="center" style="margin-top:40px;color:#00ff41;font-family:'Fira Code';">
+<footer align="center" style="margin-top:40px;color:#00ff41;font-family:'Fira Code';">
   <b>┌─[ nullone@matrix ]─┤<br>└──╼ $ <span style="color:#39f5ff;">exit 0 # Secure Session Terminated</span><br>nullone — Hacking Ethically Since 2020</b>
-</div>
+</footer> 
 
 ---
 
